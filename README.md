@@ -1,7 +1,8 @@
 🛒 Retail Performance & Operational Audit: "Shefa Issachar" Supermarket
 Data-driven optimization of retail operations, staffing, and customer growth using BigQuery & Looker Studio.
+<img width="1996" height="1270" alt="dashboard" src="https://github.com/user-attachments/assets/350c81b5-6a29-4956-987e-3685512dcea1" />
 
-![Dashboard Preview](Dashboard_Preview.pdf)
+
 
 💡 Top Strategic Insights
 1. 📉 Reducing Operational Overhead (Cost Saving)
